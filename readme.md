@@ -1,4 +1,4 @@
-# Repositorio del Poyecto de Phyton del equipo 6
+# Repositorio del Proyecto de Phyton del equipo 6
 
 Repositorio con los resultados obtenidos del trabajo realizado por el quipo 6 del curso de Data Science del programa Bedu-Santander.
 
