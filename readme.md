@@ -2,7 +2,34 @@
 
 Repositorio con los resultados obtenidos del trabajo realizado por el quipo 6 del curso de Data Science del programa Bedu-Santander.
 
-Proyecto final que recopila el trabajo a lo largo de este curso. 
+Proyecto final que recopila el trabajo a lo largo de este curso.
+
+## Resumen
+
+La mayor incertidumbre de un emprendedor es saber si su idea de negocio tendrá o no éxito. Surgen preguntas cómo:
+
+1.	¿Dónde debería poner una tienda física?
+2.	¿Cuáles son los productos ideales para empezar mi negocio?
+3.	¿Qué tanto podré vender el primer mes?
+4.	¿Cuánto dinero necesito invertir para tener un inventario de arranque?
+
+Todo lo anterior son sólo algunas de las muchas interrogantes. 
+
+Entonces, que tal si le podemos proveer de una serie de datos e información relevante que le permita a todo emprendedor poder responder algunas de estas preguntas.
+En este proyecto buscamos este propósito, pero enmarcado en la idea de emprendimiento de una tienda de bicicletas.
+Sin embargo, es claro que las técnicas aquí implementadas, puedes ser fácilmente aplicadas a otro sector comercial, siempre que se disponga de los datos necesarios.
+
+## El equipo de trabajo
+
+Las personas que trabajaron en este grandioso proyecto, fueron:
+
+1. Dr. Harold Andres Vasquez Chavarria
+2.
+3.
+4.
+
+
+## Contenido de este repo
 
 Este repositorio esta segementado de la siguiente forma:
 
