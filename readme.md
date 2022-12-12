@@ -25,7 +25,7 @@ Las personas que trabajaron en este grandioso proyecto, fueron:
 
 1. Ing. Daniel Tapia Merino
 2. Dr. Harold Andres Vasquez Chavarria
-3.ing. Luis David Zanabria Ruiz
+3. Ing. Luis David Zanabria Ruiz
 4. Ing. Norberto Peña Rodríguez
 
 
