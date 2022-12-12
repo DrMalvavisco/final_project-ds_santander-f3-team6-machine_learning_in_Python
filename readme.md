@@ -23,10 +23,10 @@ Sin embargo, es claro que las técnicas aquí implementadas, puedes ser fácilme
 
 Las personas que trabajaron en este grandioso proyecto, fueron:
 
-1. Dr. Harold Andres Vasquez Chavarria
-2.
-3.
-4.
+1. Ing. Daniel Tapia Merino
+2. Dr. Harold Andres Vasquez Chavarria
+3.ing. Luis David Zanabria Ruiz
+4. Ing. Norberto Peña Rodríguez
 
 
 ## Contenido de este repo
